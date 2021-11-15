@@ -1,0 +1,99 @@
+body {
+  background: (white);
+  font-family: "Arial";
+  margin-top: 100px;
+}
+
+#moneyIcon {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  width: 150px;
+}
+
+.container {
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+  padding: 40px;
+  margin: auto;
+}
+
+div {
+  padding: 15px;
+}
+
+#rate {
+  color: black;
+  font-size: small;
+  /* font-weight: bold; */
+}
+
+.swap-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+#first-amount,
+#second-amount,
+select,
+#swap {
+  font-size: large;
+  height: 40px;
+  /* border-radius: 5px;
+  border: 1px solid black;
+  box-shadow: 0 0 3px black; */
+}
+
+#first-amount {
+  width: 150px;
+  text-align: right;
+}
+
+#second-amount {
+  width: 150px;
+  text-align: right;
+}
+
+#swap {
+  font-size: medium;
+  background: rgba(64, 193, 190, 255);
+  color: white;
+}
+
+select {
+  font-size: medium;
+}
+
+p {
+  font-size: medium;
+  font-style: italic;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+h1 {
+  color: rgba(229, 72, 19, 255);
+}
+
+#swap.btn {
+  border-radius: 3px;
+  width: 75px;
+}
+
+#first-amount,
+#second-amount,
+#swap {
+  border: none;
+}
+
+#rate.rate {
+  text-align: right;
+}
