@@ -2,6 +2,7 @@
 
 ## Developers
 - [Nick Bechtel](https://www.linkedin.com/in/nicholasbechtel/)
+- [Christopher Lorenzana](https://www.linkedin.com/in/cristofer-lorenzana/)
 
 ## Project Summary
 
